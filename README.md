@@ -33,3 +33,7 @@ cd tweeto/backend
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+cd tweeto/frontend
+npm install
+npm start
