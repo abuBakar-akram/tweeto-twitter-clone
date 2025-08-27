@@ -22,9 +22,6 @@ A full-stack Twitter-like social app built with **Django REST Framework** (backe
 
 ---
 
-## 📸 Screenshots  
-*(Add your app screenshots here)*  
-
 ---
 
 ## 📂 Installation  
